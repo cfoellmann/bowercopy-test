@@ -1,0 +1,16 @@
+{
+  "name": "bowercopy-test",
+  "version": "0.0.0",
+  "authors": [
+    "Christian Foellmann <foellmann@foe-services.de>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cfoellmann/bowercopy-test.git"
+  },
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+	  "redux-framework": "https://github.com/ReduxFramework/redux-framework.git#655dccf306905b3adad75c5b371897dfe8f2efbf"
+  }
+}
